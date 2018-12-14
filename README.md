@@ -3,10 +3,10 @@ We have hand-selected 500 articles for the HITs from five health topics. Each ar
 
 Averagre Rating:-
 
-First Feature Set
+First Feature Set, 
 Second Feature Set
 
 Individual Rating:-
 
-Third Feature Set
+Third Feature Set, 
 Fourth Feature Set
